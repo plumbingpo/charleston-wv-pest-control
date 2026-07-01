@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charlestonpestcontrolsquad.com/sitemap.xml
